@@ -1,2 +1,7 @@
 toto le boss
+<<<<<<< HEAD
+<<<<<<< HEAD
 Bonjour, le monde
+=======
+Bonjour, le monde
+>>>>>>> parent of 77ac408 (ajout de la phrase coucou)
